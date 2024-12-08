@@ -15,8 +15,6 @@ image = "pactus-newsletter-november-2024.png"
 Welcome to the November 2024 edition of the Pactus Newsletter!
 This month has seen steady progress and notable developments.
 Let’s dive into the details.
-This month has seen steady progress and notable development updates.
-Let's dive into all the details.
 
 ## Pactus Reaches 6 Million Transactions
 
